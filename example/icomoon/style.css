@@ -1,17 +1,12 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?mlkkjs');
-  src:  url('fonts/icomoon.eot?mlkkjs#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?mlkkjs') format('truetype'),
-    url('fonts/icomoon.woff?mlkkjs') format('woff'),
-    url('fonts/icomoon.svg?mlkkjs#icomoon') format('svg');
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
   speak: none;
   font-style: normal;
   font-weight: normal;
