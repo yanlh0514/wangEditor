@@ -68,7 +68,7 @@
 [class^="w-e-icon-"],
 [class*=" w-e-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'w-e-icon' !important;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
   speak: none;
   font-style: normal;
   font-weight: normal;
